@@ -140,7 +140,7 @@ http://38.96.178.201/live/StarGold/index.m3u8
 http://38.96.178.201/live/Zing/index.m3u8
 
 #EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.disney.in/images/disney-channel-logo.png",Disney
-http://38.96.178.201/live/Disney/index.m3u8
+http://xott.live:8080/shams1234/shams1234/167551
 
 #EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.sony.com/images/sony-logo.png",SONY
 http://38.96.178.201/live/SONY/index.m3u8
